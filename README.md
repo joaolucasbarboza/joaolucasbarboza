@@ -29,7 +29,7 @@
 
 <br><br>
 
-## Contact
+## Contato
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-barboza-3ba6a9230/" target="_blank">
