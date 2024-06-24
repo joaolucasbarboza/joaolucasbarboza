@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/joaolucasbarboza/efb5c956b27204d35e05294e87cf66ec/raw/225322214501b2ac349c2fc4c4dee2385c71737c/githubcard.svg"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu sou João Lucas Barboza</h1>
+<h1 align="left">Olá, Eu sou João Lucas Barboza</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaolucasbarboza&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Sou Desenvolvedor full-stack.
