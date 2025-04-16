@@ -18,4 +18,4 @@ Cursando o 4˚ ano de Ciência da Computação na FEMA. Tenho utilizado Java com
 
 ![João Lucas Barboza GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaolucasbarboza&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasbarboza)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasbarboza&hide=typescript&layout=compact)
